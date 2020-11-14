@@ -1,8 +1,5 @@
 import torch as to
 
-# fast beta sampler for alpha, beta >= 1, and not bigger than ~ 2-3
-# in this interval, 3-4 x faster than pytroch's function
-
 """ A fast beta sampling algorithm for a,b >= 1 and ~< 3
 
     According to benchmarks, the algorithm performs on
