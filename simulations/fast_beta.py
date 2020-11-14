@@ -10,7 +10,7 @@ import torch as to
 
 def sample(alpha, beta, n=1):
     """
-        Generating n samples ~ Beta(alpha, beta) by the rejection methode
+        Generating n samples ~ Beta(alpha, beta) using the rejection method
     """
     
     # Computing mode
