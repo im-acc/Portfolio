@@ -1,5 +1,5 @@
 # Portfolio
-Projects I have made, examples : 
+Projects I have made in computational sciences, examples : 
 
 1. Robotics controls : Inverse kinematics Jacobian method
 
