@@ -6,6 +6,6 @@ Projects I have made, examples :
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/inv_kin.gif?raw=true)
 
 
-2. Euler-Bernoulli Beam Model solution : Computing exacte solution of boudary problem using integral transforms
+2. Euler-Bernoulli Dynamic Beam Model solution : Computing exacte solution of boudary problem using integral transforms
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/solution_libre_encastree_libre.png?raw=true)
