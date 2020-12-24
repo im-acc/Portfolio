@@ -174,11 +174,5 @@ def main():
             if event.type == pg.QUIT:
                 sys.exit()
 
-            if event.type == pg.KEYDOWN:
-                if event.key == pg.K_UP:
-                    ressort.F = 300000
-                if event.key == pg.K_DOWN:
-                    ressort.F = -300000
-
 if __name__ == '__main__':
     main()
