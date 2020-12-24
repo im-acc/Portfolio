@@ -1,5 +1,5 @@
 # Portfolio
-Cool projects I have made, examples : 
+Projects I have made, examples : 
 
 1. Robotics controls : Inverse kinematics Jacobian method
 
