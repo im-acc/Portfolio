@@ -8,4 +8,4 @@ Cool projects I have made, examples :
 
 2. Euler-Bernoulli Beam Model solution : Computing exacte solution of boudary problem using integral transforms
 
-![alt text](https://github.com/Gucciimad/Portfolio/Euler_Bernoulli/blob/main/solution_libre_encastree_libre.png?raw=true)
+![alt text](https://github.com/Gucciimad/Portfolio/blob/main/solution_libre_encastree_libre.png?raw=true)
