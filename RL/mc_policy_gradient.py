@@ -9,7 +9,7 @@ tf.keras.backend.set_floatx('float64')
 
 class pg_agent:
     """
-        Vanilla Policy Gradient : 2 hidden layer, softmax neural net
+        Monte Carlo Policy Gradient without baseline : 2 hidden layer, softmax neural net
     """
     
     
