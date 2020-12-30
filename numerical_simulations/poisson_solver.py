@@ -14,6 +14,6 @@ class Solver:
         return v
 
 f = lambda x,y  : np.sin(np.pi*x)*np.sin(np.pi*y)/np.pi
-%%time
+#%%time
 sol = Solver.laplace(f)
-plt.imshow(sol)
+#plt.imshow(sol)
