@@ -1,7 +1,7 @@
 # Portfolio
 Projects I have made in computational sciences, examples : 
 
-1. Cuda programming (GPGPU) : Fast boundary problems numerical solver by finite difference using cuda parallel programming (Massive speed-up compared to cpu benchmarks).
+1. CUDA programming (GPGPU) : Fast boundary problems numerical solver by finite difference using CUDA parallel programming (Massive speed-up compared to cpu benchmarks).
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/Figure_1.png?raw=true)
 
