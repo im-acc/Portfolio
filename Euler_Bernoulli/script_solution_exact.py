@@ -1,7 +1,7 @@
 '''
     Script : calcul de la solution exact pour la dynamique d'une poutre
     encastree.
-
+    Collab. G. Dodier
 '''
 
 import math
