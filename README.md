@@ -7,7 +7,7 @@ Projects I have made in computational sciences, examples :
 
 2. Stock Cutting Optimization for Rebar Shop : constrained integer programming and software development. 
 
-![alt text](https://github.com/Gucciimad/Portfolio/blob/main/Figure_1.png?raw=true)
+![alt text](https://github.com/Gucciimad/Portfolio/blob/main/LGG.png?raw=true)
 
 3. Robotics controls : Inverse kinematics Jacobian method
 
