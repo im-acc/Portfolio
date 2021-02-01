@@ -7,6 +7,7 @@ Projects I have made in computational sciences, examples :
 
 2. Stock Cutting Optimization for Rebar Shop (With Stock Management): constrained integer programming and software development. 
 
+![alt text](https://github.com/Gucciimad/Portfolio/blob/main/LGG.png?raw=true)
 
 3. Tabu Search : travelling salesman problem solution by 2-opt probabilistic tabu search. 
 
