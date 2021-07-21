@@ -1,7 +1,7 @@
 # Portfolio
 Projects I have made in computational sciences, examples : 
 
-1. Bike Share Bike Relocation Optimization Software Demo (Machine Learning demand forecasting, relocation heuristic and local search metaheuristic for routing) :
+1. Bike Share Bike Relocation Optimization Software Demo (Machine Learning demand forecasting, relocation heuristic and local search metaheuristic for routing) (React, Mapbox, Bing Map API and C++ back-end):
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/Qty_relocaliser2.PNG?raw=true)
 
