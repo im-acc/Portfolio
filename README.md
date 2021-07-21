@@ -10,7 +10,7 @@ Night operations 7 truck solution for Montreal's bike share data (12-07-2019 fro
 (In the morning, bikes are leaving residential-like areas in direction of Downtown Montreal and in
 late afternoon this trend is reversed. This represents a typical commute to work weekday.)
 
-2. Stock Cutting Optimization Software for Rebar Shop (With Stock Management): constrained integer programming and software development (Java, Python). 
+2. Stock Cutting Optimization Software for Rebar Shop (With Stock Management): constrained integer programming and software development (JavaFX, Java and Python). 
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/LGG.png?raw=true)
 
