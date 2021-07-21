@@ -1,7 +1,7 @@
 # Portfolio
 Projects I have made in computational sciences, examples : 
 
-1. Bike Share Bike Relocation Optimization Software Demo (Machine Learning demand forecasting, relocation heuristic and local search metaheuristic for routing) (React, Mapbox, Bing Map API and C++ back-end):
+1. Bike Share Bike Relocation Optimization Software Demo (Machine Learning demand forecasting, relocation heuristic and local search metaheuristic for routing) (React, Mapbox, Bing Map API and C++ back-end, Python for forecasting and data processing):
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/Qty_relocaliser2.PNG?raw=true)
 
@@ -10,7 +10,7 @@ Night operations 7 truck solution for Montreal's bike share data (12-07-2019 fro
 (In the morning, bikes are leaving residential-like areas in direction of Downtown Montreal and in
 late afternoon this trend is reversed. This represents a typical commute to work weekday.)
 
-2. Stock Cutting Optimization Software for Rebar Shop (With Stock Management): constrained integer programming and software development. 
+2. Stock Cutting Optimization Software for Rebar Shop (With Stock Management): constrained integer programming and software development (Java, Python). 
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/LGG.png?raw=true)
 
