@@ -5,7 +5,7 @@ Projects I have made in computational sciences, examples :
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/Qty_relocaliser2.PNG?raw=true)
 
-Night operations solution for Montreal's bike share data (12-07-2019 from test data set). 
+Night operations 7 truck solution for Montreal's bike share data (12-07-2019 from test data set). Green stations are emptied and red stations are filled. 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/sol_vis_12_07.png?raw=true)
 (In the morning, bikes are leaving residential-like areas in direction of Downtown Montreal and in
 late afternoon this trend is reversed. This represents a typical commute to work weekday.)
