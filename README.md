@@ -1,11 +1,16 @@
 # Portfolio
 Projects I have made in computational sciences, examples : 
 
-1. CUDA programming (GPGPU) : Fast boundary problems numerical solver by finite difference using CUDA parallel programming (Massive speed-up compared to cpu benchmarks, >100x).
+1. Bike Share Bike Relocation Optimization Software Demo (Machine Learning demand forecasting, relocation heuristic and local search metaheuristic for routing) :
 
-![alt text](https://github.com/Gucciimad/Portfolio/blob/main/Figure_1.png?raw=true)
+![alt text](https://github.com/Gucciimad/Portfolio/blob/main/Qty_relocaliser2.PNG?raw=true)
 
-2. Stock Cutting Optimization for Rebar Shop (With Stock Management): constrained integer programming and software development. 
+Night operations solution for Montreal's bike share data (12-07-2019 from test data set). 
+![alt text](https://github.com/Gucciimad/Portfolio/blob/main/sol_vis_12_07.png?raw=true)
+(In the morning, bikes are leaving residential-like areas in direction of Downtown Montreal and in
+late afternoon this trend is reversed. This represents a typical commute to work weekday.)
+
+2. Stock Cutting Optimization Software for Rebar Shop (With Stock Management): constrained integer programming and software development. 
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/LGG.png?raw=true)
 
@@ -13,11 +18,15 @@ Projects I have made in computational sciences, examples :
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/TPS.png?raw=true)
 
-4. Robotics controls : Inverse kinematics Jacobian method
+4. CUDA programming (GPGPU) : Fast boundary problems numerical solver by finite difference using CUDA parallel programming (Massive speed-up compared to cpu benchmarks, >100x).
+
+![alt text](https://github.com/Gucciimad/Portfolio/blob/main/Figure_1.png?raw=true)
+
+5. Robotics controls : Inverse kinematics Jacobian method
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/inv_kin.gif?raw=true)
 
 
-5. Euler-Bernoulli Dynamic Beam Model solution : Computing exacte solution of boudary problem using integral transforms
+6. Euler-Bernoulli Dynamic Beam Model solution : Computing exacte solution of boudary problem using integral transforms
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/solution_libre_encastree_libre.png?raw=true)
