@@ -25,8 +25,3 @@ the late afternoon this trend is reversed. This represents a typical commute to 
 5. Robotics controls : Inverse kinematics Jacobian method
 
 ![alt text](https://github.com/Gucciimad/Portfolio/blob/main/inv_kin.gif?raw=true)
-
-
-6. Euler-Bernoulli Dynamic Beam Model solution : Computing exact solution of boundary problem using integral transforms
-
-![alt text](https://github.com/Gucciimad/Portfolio/blob/main/solution_libre_encastree_libre.png?raw=true)
