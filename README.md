@@ -1,5 +1,5 @@
 # Portfolio
-Projects I have made in computational sciences. Examples : 
+Side projects I have made in computational sciences. Examples : 
 
 1. Bike Share Bike Relocation Optimization Software (Machine Learning demand forecasting, dynamic programming, relocation heuristic and search heuristic for routing): this is a real-time automated system responsible for dispatching tasks for the operations fleet of the Montreal Bike Share (battery swap and bike relocation tasks). Since the deployment, it has dispatched more than 200 000 tasks. 
 <img width="904" alt="Screen Shot 2023-08-14 at 11 44 10 PM" src="https://github.com/im-acc/Portfolio/assets/52804372/93d537b7-d6f2-4670-8476-c0a266419e66">
